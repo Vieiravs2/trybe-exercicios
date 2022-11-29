@@ -12,11 +12,10 @@ let birthYear = 2003;
 
 // Utilize o console.log() para imprimir as constantes e variáveis que você criou.
 
-console.log(myName)
-console.log(birthCity)
-console.log(birthYear)
+console.log(myName);
+console.log(birthCity);
+console.log(birthYear);
 
 // Ou podemos usar: 
 
-console.log(myName,birthCity,birthYear)
-
+console.log(myName,birthCity,birthYear);
